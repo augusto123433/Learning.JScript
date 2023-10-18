@@ -1,0 +1,2 @@
+Crear un array con los siguientes números: 1000, 500, 50, 10, 900, 750, 150, 555, 720, 730. Mostrar los números que cumplen con la siguiente consigna: deben ser mayores que 200 y menores que 800.
+

@@ -1,0 +1,1 @@
+Utilizando while mostrar en consola desde 500 a 1000, inclusive, incrementando de a 20. No mostrar los números 900 y 980.

@@ -1,0 +1,2 @@
+Utilizando for mostrar en consola desde 800 a 100, bajando de 50 en 50. No mostrar los números 500 y 400.
+
